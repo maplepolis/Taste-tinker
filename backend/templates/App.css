@@ -1,0 +1,86 @@
+.jumbotron
+{		
+    background-color: yellow;
+    color: black;
+    font-family: Montserrat, sans-serif;
+    padding: 50px;
+}
+nav {
+  font-family: Montserrat, sans-serif;
+}
+
+footer {
+  font-family: Montserrat, sans-serif;
+  background-color: yellow;
+}
+
+section {
+  max-width: 200px;
+  height: auto;
+  border: 1px solid #a2a2a2;
+  text-align: center;
+  margin: 10px;
+}
+
+img {
+  width: 100%;
+}
+
+.recipeName {
+  font-size:medium;
+}
+
+.recipes {
+  margin-bottom:-16px;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+h6 {
+  color:black
+}
+
+.nav-img {
+    height: 50px;
+    padding-top: 0;
+}
+
+.nav-link{
+    color: yellow
+}
+
+.app-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 1rem;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th,
+  td {
+    border: 1px solid #ffffff;
+    text-align: left;
+    padding: 2px;
+    font-size: 16px;
+  }
+  
+  th {
+    background-color: blue;
+    color: white
+  }
+  
+  td {
+    background-color: rgb(205, 235, 253);
+  }
+  
+
+  
+.inputgap{
+  gap: 100px;
+}
